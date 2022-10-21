@@ -1,4 +1,7 @@
 <resources>
   <string name="app_name">Modula</string>
   <string name="module_image">Module Image</string>
+  <string name="dev_name">Kemal Idris</string>
+  <string name="dev_email">Email: keidscode@gmail.com</string>
+  <string name="about_dev">About Dev</string>
 </resources>
